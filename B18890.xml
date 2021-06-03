@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A paper delivered in by Dr. Alston, Dr. Hamens, Dr. Bates, Dr. Micklethwait on Monday the 16. of October, 1648, to the Honorable Committee for Bathes and Bath-stoves from the Colledge of Physitians in London ; together with an answer thereunto by Peter Chamberlen, Dr. in Physick and fell. of the said colledge.</title>
+            <author>Royal College of Physicians of London. Committee for Baths and Bath-stoves.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18890</idno><idno type="EEBO-CITATION">15584567_39857</idno>
+  <idno type="VID">39857</idno>
+  <idno type="EEBO-PROQUEST">2264219485</idno>
+  
+            <idno type="STC">Wing C1900</idno>
+            <idno type="STC">ESTC R35975</idno>
+            <idno type="OCLC">15584567</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18890)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39857)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1588:31 or 1943:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A paper delivered in by Dr. Alston, Dr. Hamens, Dr. Bates, Dr. Micklethwait on Monday the 16. of October, 1648, to the Honorable Committee for Bathes and Bath-stoves from the Colledge of Physitians in London ; together with an answer thereunto by Peter Chamberlen, Dr. in Physick and fell. of the said colledge.</title>
+                  <author>Royal College of Physicians of London. Committee for Baths and Bath-stoves.</author>
+                  <author>Chamberlen, Peter, 1601-1683.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Item at reel 1943:10 identified as Wing A2928 (number cancelled).</note>
+                  <note>Reproductions of originals in the British Library and Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Public baths --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39857:1"/>
+            <p>A PAPER Delivered in by
+<list>
+                  <item>Dr. <hi>Alston.</hi>
+                  </item>
+                  <item>Dr. <hi>Hamens</hi>
+                  </item>
+                  <item>Dr. <hi>Bates.</hi>
+                  </item>
+                  <item>Dr. <hi>Micklethwait.</hi>
+                  </item>
+               </list> ON <hi>Monday</hi> the 16. of <hi>October,</hi> 1648. to the Honorable Committee FOR <hi>Bathes and Bath-Stoves.</hi> FROM The Colledge of Physitians in <hi>London.</hi> TOGETHER, With an Answer thereunto. By <hi>Peter Chamberlen.</hi> Dr. in Physick, and Fell. of the said Colledge.</p>
+            <p>LONDON, Printed in the yeare 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:39857:2"/>
+            <pb n="1" facs="tcp:39857:2"/>
+            <head>The Committee being set the third time in expectation of what Ob<g ref="char:EOLhyphen"/>jections the Colledge would offer against the Ordinance for publike artificiall <hi>Bathes, &amp; Bath-Stoves,</hi> or whether they would approve of them.</head>
+            <p>Dr. Alston began as followeth, in these or the like words and Phrases.</p>
+            <p>
+               <seg rend="decorInit">T</seg>He Colledge commanded me to return humble thanks to the Honorable Cō<g ref="char:EOLhyphen"/>mittee for not giving consent to the Ordinance of Bathes, without them. (Then he proceeded) Having the fear of God before our eyes, and the good of the Common-wealth, The Col<g ref="char:EOLhyphen"/>ledge do by us return this Answer to the Honorable Committee, that they do not think fit the erecting of publike Bathes should be granted to Dr. <hi>Chamberlen,</hi> and they think them hurtfull to the Common-wealth.</p>
+            <pb n="2" facs="tcp:39857:3"/>
+            <p>And the Colledg desires that this honourable Com<g ref="char:EOLhyphen"/>mittee signifie so much unto the honorable Hose.</p>
+            <p>Then the Committee asked if they had not brought their Answer in writing, whereupon they presented their Paper as followeth:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="deposition">
+                        <head>To the Honourable, the Committee for Bathes.</head>
+                        <p>THe President and Colledge of Physitians return their humble thanks to this Honorable Committee for your favour unto them, and humbly represent that since the Ho<g ref="char:EOLhyphen"/>norable Committee is pleased to resolve not to enjoyn Dr. <hi>Chamberlen</hi> to attend the Colledge concerning his Design of <hi>Bathes,</hi> they can give no satisfactory Answer therein, Onely whereas publike Bathes have been by their abuse, the Causes in the <hi>Greek</hi> and <hi>Roman</hi> States, (where there was greater necessity, and lesse danger of them then in our cold clyme) of so much Physicall prejudice, effeminating bodies, and procuring infirmities, and morall in debauching the manners of the people, that in either of them upon the coming of the Christians into power, they were demolish<g ref="char:EOLhyphen"/>ed or converted into other uses; And whereas for private use there are in the houses of divers persons of this King<g ref="char:EOLhyphen"/>dom, Cradles, Tubbs, Boxes, Chayres, Bathes, and Bathe-Stoves, in which by the help of Fumes, Vapors, water, Oyle, &amp;c. according to the prescription of Physitians, sweat may be procured, payne asswaged, and all necessary ends of ba<g ref="char:EOLhyphen"/>thing attained. The President and Colledge are so confi<g ref="char:EOLhyphen"/>dent of, and presume so much upon the wisdom and justice of this honourable Committee, &amp; the two Houses of Parlia<g ref="char:EOLhyphen"/>ment, that they believe, if that it shall please them to em<g ref="char:EOLhyphen"/>power the said Dr. <hi>Chamberlen</hi> by any Ordinance for e<g ref="char:EOLhyphen"/>rection
+<pb n="3" facs="tcp:39857:3"/>of publike Bathes, they will so regulate his design, make such provision, and take such caution from him, that none of the afore-mentioned inconveniences shall follow. And that they will neither infringe the just liberty of the Subject, nor abridge other Physitions in the choyce of their instruments, or legall practise of any part of their Art.</p>
+                        <closer>
+                           <signed>Fran. Prujean Collegii Medicorum. Londinensium Regisstarius.</signed>
+                           <signed>This is a true Copy. <hi>Leo. C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>pley.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="response">
+            <head>To the honorable Committe for Bathes, The humble Answer of <hi>Peter Chamberlen,</hi> Doctor in Physick, and Fellow of the Colledge of Physi<g ref="char:EOLhyphen"/>tians in <hi>London,</hi> to a Paper deli<g ref="char:EOLhyphen"/>vered to the honorable Committe, by Dr. <hi>Alston,</hi> Dr. <hi>Hameus,</hi> Doct. <hi>Bates,</hi> and Dr. <hi>Micklethwait,</hi> from the President, and others of the said Colledge. In humble obedience to Command of this Honourable Committee, &amp; in Answer to the Colledg Paper.</head>
+            <p>IN the first place, I say, I willingly passe by all per<g ref="char:EOLhyphen"/>sonal aymes, be it in the mention of my not atten<g ref="char:EOLhyphen"/>dance, (which they are cause of) or in their grand Caveats enjoyned by them on this honourable Committee, and the two Houses of Parliament,
+<pb n="4" facs="tcp:39857:4"/>upon their Wisdoms and Justice, If they shall empower mee, &amp;c. or in their many arguments of Abuse to pre<g ref="char:EOLhyphen"/>vent that IF. And am resolved (as God shall enable me) to swallow all private reproach and scorn, that runs not too much on the publick score.</p>
+            <p>Secondly, concerning the Matter it self, I humbly an<g ref="char:EOLhyphen"/>swer, that the Colledg have quite mistaken it; for I pre<g ref="char:EOLhyphen"/>sented only the Use of Publick Bathes, and they meddle only with the Abuse of them. Alas, who knows not, that the Abuse of wine causeth drunkennesse; the abuse of women, whoredome; the abuse of meats, gluttony; and the abuse of Physick, poyson?</p>
+            <p>Thirdly, I fear they have too much forsaken the Au<g ref="char:EOLhyphen"/>thors of our own Faculty, to side with Poets and the su<g ref="char:EOLhyphen"/>perstitious beginnings of Antichrist, in the aggravations of those Abuses.</p>
+            <p>Fourthly, I doubt whether they have not mistaken the jealous zeal of those Religious Fathers that writ against them; for the insulting Barbarismes of the <hi>Gothes</hi> and <hi>Vandales,</hi> and other conquering Nations, in demolishing those stately Buildings. And whether the self-same wri<g ref="char:EOLhyphen"/>tings may not more, or as fitly be applyed unto the pri<g ref="char:EOLhyphen"/>vate Houses, and those Accommodations mentioned in the Paper, Yea, to the Excellent and Famous Bathes of Som<g ref="char:EOLhyphen"/>mersetshire.</p>
+            <p>Fifthly, I perceive they consulted not well with Tra<g ref="char:EOLhyphen"/>vellers, when they affirm them all demolished, or con<g ref="char:EOLhyphen"/>verted to other uses in the Grecian and Romane Empires. For the truth is, that many of them being demolished, Lesser Purses, Power, and Leisure, have not been able to contend in State with the Treasure and Soveraignty of the whole world, which those Emperours had that built them.</p>
+            <p>Sixthly, I doubt whether it be not a fundamental He<g ref="char:EOLhyphen"/>resie in Physick, to necessitate hot Remedies (as Bathes) for hot Countries, and proclaim them dangerous in cold Clymes, notwithstanding the daily Experience in Germa<g ref="char:EOLhyphen"/>ny,
+<pb n="5" facs="tcp:39857:4"/>Poland, Denmark, &amp; Muscovia, to the contrary. And the Great Canon of Physick, <hi>contraria contrariis curantur,</hi>
+            </p>
+            <p>Seventhly, I do verily believe, and dare adventure my Life and Estate upon it, that I can (by Gods blessing) more safely, certainly, suddenly, and with more Ease, cure many (if not all curable) diseases with them, then all our Colledg; yea, then All Physitians in the world can do without them. Yea, such diseases as without them are wholly desperate and deadly.</p>
+            <p>Eighthly, In Answer to some tacit Jealousies, I do not do this purposely to diminish the Practise of Physitians, but verily suppose there may be a way propounded in them, both advantagious to them &amp; the Common-wealth.</p>
+            <p>Ninthly, I do not endeavour to engrosse them to my self; but have from the beginning, and do still humbly offer it unto the State, or any whom thay shall appoint; wherein (if I do not) I verily believe that Dr. <hi>Grent</hi> will be the best able to serve them.</p>
+            <p>Lastly, I professe before God and men, that I believe the due use of them in all convenient places, may save above 10000 Lives a year. And that in faithfulnesse to Almighty God, and my native Country, I have endea<g ref="char:EOLhyphen"/>voured this service; from the which, if the honourable Parliament or Committee can discharge me before the Great Judg, I shall give most humble thanks to God and Them, rejoycing to have so escaped the incensed Spirits of so many learned men, as now oppose me.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
